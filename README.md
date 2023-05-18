@@ -1,2 +1,2 @@
 # Lab-5-TESS-analysis-
-Finding evidence for exo planets
+We have data  from the TESS space mission. We take this data to find exoplanets from the different paramters of data it gives us like luminosity, flux time, etc. Lab 5 helped us explore, identify and plot the right data. We try and get transit times for each object in the star system.(Transit time is how long does an object take for it to pass between our line of sight to the local star). Based on the amount of transit times we can descern what kind of object it is, what its orbital period is and many other things. Our main objective is to conclude what kind of exoplanet it is and its similarity to earth. Also, conclude if the planet is habitable (for humans).
